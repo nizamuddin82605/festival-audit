@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/festival-audit/static/css/main.2302d42b.css",
+    "main.js": "/festival-audit/static/js/main.0a410c1f.js",
+    "index.html": "/festival-audit/index.html",
+    "main.2302d42b.css.map": "/festival-audit/static/css/main.2302d42b.css.map",
+    "main.0a410c1f.js.map": "/festival-audit/static/js/main.0a410c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2302d42b.css",
+    "static/js/main.0a410c1f.js"
+  ]
+}
